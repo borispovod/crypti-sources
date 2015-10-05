@@ -27,7 +27,7 @@ node app.js
 ## Bug Contest
 
 If you see any core bugs we offer good bounties for it.
-Ask us in **issues** or join our [slack](https://slack.crypti.me) and ask there.
+Ask us in **issues** or join our [slack](http://slack.crypti.me) and ask there.
 
 ## Contribution
 
