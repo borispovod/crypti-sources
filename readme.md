@@ -26,7 +26,7 @@ node app.js
 
 ## Bug Contest
 
-If you happen to find any bugs, we are currently offering good bounties. Either submit a new [issue](https://github.com/crypti/crypti-sources/issues/new) or join our [slack](http://slack.crypti.me) and tell us about it there.
+If you happen to find any bugs, we are currently [offering good bounties](https://blog.crypti.me/crypti-is-now-open-source/). Either submit a new [issue](https://github.com/crypti/crypti-sources/issues/new) or join our [slack](http://slack.crypti.me) and tell us about it there.
 
 ## Contribution
 
