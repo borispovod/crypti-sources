@@ -42,3 +42,8 @@ All source code contributions are welcome. Simply open a pull request with your 
 ## License 
 
 MIT
+
+## Contributors
+
+* Boris Povod <boris@crypti.me>
+* Pavel Nekrasov <landgraf.paul@gmail.com>
