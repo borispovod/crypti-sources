@@ -4,9 +4,9 @@ Crypti is a next generation crypto-currency and decentralized application platfo
 
 Requires:
 
-	* SQLite3 (version < 3.8.6)
-	* Node.js (version 0.10.x)
-	* Npm
+* SQLite (version < 3.8.6)
+* Node.js (version 0.10.x)
+* Npm
 
 ## Installation
 
