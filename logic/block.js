@@ -280,7 +280,7 @@ Block.prototype.calculateFee = function (block) {
 
 Block.prototype.dbRead = function (raw) {
 	if (!raw.b_id) {
-		return null
+		return null;
 	} else {
 		var block = {
 			id: raw.b_id,
